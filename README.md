@@ -1,4 +1,3 @@
-[In reply to Ayman AL-tiri]
 The **Periodic Table of Elements Code Master** project typically involves creating an interactive and visually appealing representation of the periodic table using HTML and CSS. This kind of project is great for practicing web development skills and understanding both the structure of HTML and the styling capabilities of CSS.
 
 ### Project Overview
